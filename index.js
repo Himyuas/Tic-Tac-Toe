@@ -401,7 +401,7 @@ function play(audioName) {
       audio = new Audio("audio/click.mp3");
       break;
     case "win":
-      audio = new Audio("audio/WinSound.mp3");
+      audio = new Audio("audio/winSound.mp3");
       break;
     case "ovr":
       audio = new Audio("audio/gameOver.mp3");

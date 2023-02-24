@@ -84,6 +84,7 @@ h2 {
 }
 
 td {
+  -webkit-tap-highlight-color: transparent;
   position: relative;
   border: 2px solid var(--disabled-border-color);
   width: 80px;
